@@ -1,6 +1,6 @@
 ### Hi 👋
 
-![Avatar](./myAvatar.png)
+![Avatar](https://github.com/mohanarpit/mohanarpit/blob/master/myAvatar.png)
 
 I'm Arpit. I'm a startup veteran and currently building [Appsmith](https://github.com/appsmithorg/appsmith), an open source low-code builder to construct admin panels really quickly.
 
