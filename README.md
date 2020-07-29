@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋
+
+![Avatar](./myAvatar.png)
+
+I'm Arpit. I'm a startup veteran and currently building [Appsmith](https://github.com/appsmithorg/appsmith), an open source low-code builder to construct admin panels really quickly.
+
+For more information, do checkout [arpitmohan.com](https://arpitmohan.com)
 
 <!--
 **mohanarpit/mohanarpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
