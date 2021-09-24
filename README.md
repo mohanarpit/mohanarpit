@@ -1,10 +1,13 @@
+
+<p align="center">
+    <img src="https://github.com/mohanarpit/mohanarpit/blob/master/myAvatar.png" alt="Arpit Mohan's avatar">
+</p>
+
 ### Hi 👋
 
-![Avatar](https://github.com/mohanarpit/mohanarpit/blob/master/myAvatar.png)
+I'm Arpit, CTO of [Appsmith](https://github.com/appsmithorg/appsmith), the first open source low code platform used to build internal tools used by more than 1000 teams. As a startup veteran, I love solving problems with technology. Occassionally, I share my experiences on [Dev.to](https://dev.to/mohanarpit) and [Hashnode](https://hashnode.com/@mohanarpit).
 
-I'm Arpit. I'm a startup veteran and currently building [Appsmith](https://github.com/appsmithorg/appsmith), an open source low-code builder to construct admin panels really quickly.
-
-For more information, do checkout [arpitmohan.com](https://arpitmohan.com)
+For more information, please checkout [arpitmohan.com](https://arpitmohan.com)
 
 <!--
 **mohanarpit/mohanarpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
